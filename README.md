@@ -3,8 +3,8 @@
 ## I'm a Full Stack Developer and Information Systems Student
 
 - 🔭 Second year Information Systems <span>M.</span>Sc. student at the University of Münster
-- 🖼️ Pixelperfect Frontends
-- 🔮 Reliable high-performance backends 
+- 🖼️ User friendly and beautiful frontends
+- 🔮 Fully tested and clean backends 
 
 ### Get in touch:
 <!--
