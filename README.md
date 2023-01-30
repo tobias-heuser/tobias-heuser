@@ -14,7 +14,7 @@ Rights to the images used lie with the respective owners.
     <img height="30px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" />
   </a>
 <a href="https://twitter.com/TobiHeuser">
-    <img height="28px" src="https://upload.wikimedia.org/wikipedia/de/thumb/9/9f/Twitter_bird_logo_2012.svg/500px-Twitter_bird_logo_2012.svg.png" />
+    <img height="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png" />
   </a>
 
 <br />
